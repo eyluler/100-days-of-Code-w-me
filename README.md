@@ -1,5 +1,8 @@
 # 100-days-of-Code-w-me
-I am going to share my coding experiences
+
+Hello everyone first thing is you should understand what is the #100daysofcode movement? Here is the explanation : https://www.100daysofcode.com/
+
+I am going to share my coding experiences. I hope it will be useful for everyone 🤍
 
 DAY 1 👩🏻‍💻
 
